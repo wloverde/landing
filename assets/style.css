@@ -56,3 +56,11 @@ h1,h2 {
     /* unessesary duplicate code, just an example  of CSS formating specific elements*/
     text-align: center;
 }
+
+#header-links {
+    position: relative;
+    text-align: right;
+    color: yellow;
+    bottom: 50px;
+
+}

@@ -37,7 +37,7 @@ body {
 }
 
 #contact-form {
-    display: block;
+    margin: auto;
     border: 5px dashed greenyellow;
     width: 250px ;
 }
